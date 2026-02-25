@@ -1,0 +1,7 @@
+from demographic_data_analyzer import calculate_demographic_data
+from test_module import test_calculate_demographic_data
+
+calculate_demographic_data()
+
+# Run tests automatically
+test_calculate_demographic_data()
