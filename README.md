@@ -18,6 +18,7 @@ Hours per week
 Salary
 
 📊 Analysis Performed
+
 The program calculates:
 Number of people per race
 Average age of men
