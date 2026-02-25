@@ -5,7 +5,9 @@ This project analyzes demographic data extracted from the 1994 U.S. Census datab
 The goal is to perform statistical analysis and answer data-driven questions.
 
 📂 Dataset
+
 File: adult.data.csv
+
 Contains information such as:
 Age
 Workclass
@@ -31,10 +33,12 @@ Country with highest percentage earning >50K
 Most common occupation in India for >50K earners
 
 🛠 Technologies Used
+
 Python
 Pandas
 
 ▶ Run Project
 
 pip install pandas
+
 python main.py
